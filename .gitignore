@@ -13,4 +13,6 @@ __pycache__/
 Thumbs.db
 
 #Ignore keys 
-salesdateanalysis/key
+salesdateanalysis/key/
+salesdateanalysis/key/dalesdataanalysis-b2de12950770.json
+*.json
